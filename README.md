@@ -1,0 +1,2 @@
+# AuctionComponent
+Init
